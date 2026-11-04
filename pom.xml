@@ -9,9 +9,15 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
+<<<<<<< HEAD
 	<artifactId>Kafka-Microservices-Order-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Kafka-Microservices-Order-2</name>
+=======
+	<artifactId>Kafka-Microservices-Order</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Kafka-Microservices-Order</name>
+>>>>>>> 95a0de0a20a9c61fa5129b3c1050de9ebd126d3a
 	<description/>
 	<url/>
 	<licenses>
